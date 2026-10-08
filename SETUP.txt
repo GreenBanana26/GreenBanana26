@@ -1,0 +1,25 @@
+SCHMETTERLING IT - GITHUB-PROFIL
+
+DIE DATEIEN:
+- README.md: Profil-README für GitHub (deutsch)
+- assets/schmetterling-it-avatar.png: optimiertes Schmetterlingsbild (<1 MB)
+- assets/schmetterling-github-banner.svg: responsives Profilbanner
+
+WENN DAS SYSADMIN-KONTO EIN PERSÖNLICHER GITHUB-ACCOUNT IST:
+1. Als Systemadministration bei GitHub einloggen.
+2. Neues PUBLIC-Repository anlegen, dessen Name EXAKT dem GitHub-Benutzernamen entspricht.
+3. README.md in das Repository-Stammverzeichnis hochladen.
+4. Den vollständigen Ordner assets/ unverändert hochladen.
+5. Danach wird die README auf der Profilseite angezeigt.
+
+WENN DIE SYSTEMADMINISTRATION EINE GITHUB-ORGANISATION IST:
+1. Ein PUBLIC-Repository namens .github in der Organisation anlegen.
+2. README.md nach profile/README.md kopieren.
+3. Die Dateien aus assets/ nach profile/assets/ kopieren.
+4. Profil der Organisation aktualisieren: Profil-README erscheint automatisch.
+
+HINWEISE:
+- GitHub-Avatar separat über GitHub-Einstellungen als Profilbild hochladen.
+- README verwendet das beigefügte selbst gestaltete Schmetterlingsmotiv.
+- Privatrepositories bleiben privat; die README ist öffentlich sichtbar.
+- Schmetterling International und Produktnamen sind Marken der jeweiligen Rechteinhaber.
